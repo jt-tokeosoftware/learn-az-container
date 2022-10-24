@@ -2,5 +2,5 @@
 
 Test and try
 
-Registry AZ
+Registry AZ    
 learnContainerByJt.azurecr.io
