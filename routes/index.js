@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'learnContainerByJt' });
+  res.render('index', { title: 'learnContainerByJt ;)' });
 });
 
 module.exports = router;
