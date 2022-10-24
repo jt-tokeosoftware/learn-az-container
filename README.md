@@ -57,7 +57,7 @@ Paramètres > sous Paramètres du registre >  Déploiement continu >  Activé
 Ce paramètre configure un webhook utilisé par Container Registry pour avertir l’application web que l’image Docker a changé.
 
 
-### 8 Modifier source
+### 8 Modifier source et mettre à jour l'app
 
 git pull
 ```
